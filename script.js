@@ -1,7 +1,8 @@
-let count = 1;
-document.getElementById("radio1").checked = true;
+var radio = document.querySelector ('.manual-btn');
+var count = 1;
+document.getElementById('radio1').checked = true;
 
-setInterval(function() {
+setInterval(() => {
   nextImage();
 },5000)
 
@@ -12,13 +13,3 @@ function nextImage() {
   }
   document.getElementById("radio" + count).checked = true;
 }
-// Função para reiniciar o intervalo quando o usuário clica manualmente
-function resetInterval() {
-              clearInterval(interval); // Limpa o intervalo atual
-              interval = setInterval(nextImage, 5000); // Reinicia o intervalo automático
-            }
-            
-            // Adicionando evento de clique para reiniciar o intervalo quando o usuário clicar nas bolinhas manuais
-            document.querySelectorAll('.manual-btn').forEach(btn => {
-              btn.addEventListener('click', resetInterval);
-            });
