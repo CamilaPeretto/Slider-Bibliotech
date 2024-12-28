@@ -12,17 +12,19 @@ body{
               margin: 0 auto;
               width: 100%;
               height: auto;
-              margin: 20px auto;
+              margin: 100px auto;
               padding: 0;
               overflow: hidden;
               position: relative;
+              
              
 }
 
 .slides{
               width: 400%;
-             transition: 1s ease;
+             transition: 3s ease;
               display: flex;
+              width: calc(100% * 4);
 }
 
 .slides input, img-mobile {
@@ -64,6 +66,29 @@ body{
 .manual-btn:hover, .navegation-auto div:hover{
               background-color: #fff;
 }
+
+/* Botões de seta */
+.arrow {
+              position: absolute;
+              top: 60%;
+              transform: translateY(-60%);
+              background-color: rgba(0, 0, 0, 0);
+              color: rgb(255, 255, 255);
+              border: none;
+              padding: 5px 7px;
+              cursor: pointer;
+              border-radius: 50%;
+              z-index: 10;
+              transition: opacity 0.3s ease;
+          }
+          
+          .arrow.left {
+              left: 1px;
+          }
+          
+          .arrow.right {
+              right: 1px;
+          }
 
 #radio1:checked ~ .first{
               margin-left: 0;
