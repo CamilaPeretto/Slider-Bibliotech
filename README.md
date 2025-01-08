@@ -1,8 +1,8 @@
-# 📚 Slider Bibliotech
+# Slider Bibliotech
 
-> Transformando a experiência de navegação em bibliotecas digitais com inovação, design responsivo e criatividade.
+**Transforme seu site de gerenciamento de bibliotecas com facilidade!**
 
-O **Slider Bibliotech** é mais do que um simples slider. É uma solução inteligente, desenvolvida especialmente para sistemas de gerenciamento de bibliotecas, com o objetivo de tornar a navegação mais envolvente, acessível e eficiente. 
+Bem-vindo ao **Slider Bibliotech**, um componente deslizante elegante e responsivo projetado para ser adicionado ao sistema de gerenciamento de bibliotecas. Este projeto oferece uma solução visual dinâmica e moderna, ideal para destacar conteúdo de forma atraente.
 
 ## 🚀 Funcionalidades Principais
 
@@ -10,6 +10,7 @@ O **Slider Bibliotech** é mais do que um simples slider. É uma solução intel
 - **Visual Exclusivo**: Banners criados com criatividade no Canva, usando imagens geradas por Inteligência Artificial.
 - **Integração Simples**: Adapte facilmente o slider à sua plataforma web.
 - **Leve e Performático**: Código otimizado para um carregamento ágil e transições suaves.
+- **Integração Simples**: Pode ser facilmente adicionado ao código do seu site de gerenciamento de bibliotecas.
 
 ## 🎓 Por que o Slider Bibliotech?
 
@@ -25,12 +26,6 @@ Este projeto foi desenvolvido como parte de uma iniciativa acadêmica para a fac
 
 - As **imagens** utilizadas no slider foram geradas com o auxílio de **Inteligência Artificial**, garantindo originalidade e impacto visual.  
 - Os **banners** foram elaborados no **Canva**, com atenção a detalhes e foco em uma comunicação visual atrativa.
-
-## 🌟 Diferenciais
-
-- **Responsividade**: Experiência consistente em qualquer dispositivo.
-- **Acessibilidade**: Inclusivo para diferentes públicos.
-- **Flexibilidade**: Aplicável a diversos contextos, como destaque de livros ou divulgação de eventos.
 
 ## 📷 Demonstração
 
